@@ -22,4 +22,7 @@ A simple Python program that calculates a student's *total marks, percentage, an
 
 ## Example Output Snippet
 
+<img width="502" height="289" alt="image" src="https://github.com/user-attachments/assets/269b6881-d069-4bac-9129-301ffe408100" />
+
+
 
