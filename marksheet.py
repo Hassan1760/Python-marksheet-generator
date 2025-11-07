@@ -29,7 +29,7 @@ grade = (
 
 #Marksheet Structure
 print(f"\n\n\t\tMarksheet of {name}")
-print(f"\t\t**********************\n\n")
+print(f"\t\t**********************\n")
 
 print(f"\tname of student: {name}")
 print(f"\tRoll number of student: {rollNum}")
@@ -37,6 +37,7 @@ print(f"\tClass of student: {claSS}\n")
 print(f"\tMarks Obtained: {marksOb}")
 print(f"\tPercentage: {per:.2f} %")
 print(f"\tGrade: {grade}\n")
+
 
 
 
